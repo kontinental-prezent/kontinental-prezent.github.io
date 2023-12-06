@@ -54,8 +54,8 @@
     "versionPublish": "5.9.6",
     "imageResize": false,
     "chatbutton": {},
-    "favicon": false,
-    "mbrsiteDomain": "gx6qbalh6q",
+    "favicon": "@PROJECT_PATH@/assets/images/kontinental_2.png",
+    "mbrsiteDomain": "ytxjvdxlm7",
     "usedWebp": false,
     "cssOptimize": false,
     "lazyLoad": false,
@@ -73,7 +73,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Kontinental",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
